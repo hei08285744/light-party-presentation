@@ -1,18 +1,18 @@
 # 選擇光明，活出喜樂
 
-適用於青少年團契的 60 分鐘繁體中文聚會簡報，共 27 頁。
+一份適合青少年團契使用、全程 60 分鐘嘅聚會簡報，共 27 頁。
 
-網站：[開啟互動 HTML 簡報](https://hei08285744.github.io/light-party-presentation/)
+網站：[開啟互動簡報](https://hei08285744.github.io/light-party-presentation/)
 
 | 檔案 | 說明 |
 |---|---|
-| [PowerPoint 簡報](light-party.pptx) | 可編輯文字與圖形，並附逐頁導師備註。 |
-| [HTML 簡報](light-party.html) | Guizang 電子雜誌風，可用瀏覽器開啟。 |
-| [網站首頁](index.html) | GitHub Pages 使用的互動簡報入口。 |
-| [原始碼與授權](light-party-source.zip) | HTML、PowerPoint、建置來源及相關授權資料。 |
+| [PPTX 簡報檔](light-party.pptx) | 文字同圖形都可以編輯，並附有每頁導師講稿。 |
+| [HTML 簡報](light-party.html) | 可用瀏覽器開啟，亦可以離線播放。 |
+| [網站首頁](index.html) | GitHub Pages 使用嘅互動簡報入口。 |
+| [原始碼與授權](light-party-source.zip) | 包含簡報、建置來源同相關授權資料。 |
 
-將 HTML 和 PowerPoint 存在同一資料夾，然後開啟 HTML，按右下方「下載 PowerPoint」即可直接下載簡報。HTML 亦支援方向鍵翻頁、`Esc` 總覽，以及 `P` 演講者模式。
+將 HTML 同 PPTX 檔案放喺同一個資料夾，之後開啟 HTML，撳右下角「下載簡報檔」就可以下載 PPTX。HTML 簡報支援方向鍵翻頁、`Esc` 開啟總覽，以及 `P` 開啟講者模式。
 
-逐頁計畫為 54 分鐘，預留 6 分鐘現場彈性。第 27 頁是導師附錄，不需投影。
+每頁安排約 54 分鐘，留返 6 分鐘作現場彈性。第 27 頁係導師附錄，正常聚會唔需要投影。
 
-聚會材料已更正薩溫節日期資訊，並避免把不同基督教傳統和所有萬聖節參與者一概而論。
+內容已更正薩溫節日期，亦避免用單一說法概括唔同基督教傳統同所有萬聖節參加者。
